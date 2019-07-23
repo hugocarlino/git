@@ -1,2 +1,3 @@
 Teste B
 Adicionado nova linha
+Esta linha foi adicionada no branch master
